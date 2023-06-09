@@ -83,7 +83,22 @@ pickle.dump(clf,open('model/clf.pkl','wb'))
 
 # Output:
 
-![]()
+![](https://github.com/saran7d/Email-spam-classifier/blob/main/1.png)
 
+![](https://github.com/saran7d/Email-spam-classifier/blob/main/2.png)
 
+![](https://github.com/saran7d/Email-spam-classifier/blob/main/3.png)
 
+![](https://github.com/saran7d/Email-spam-classifier/blob/main/4.png)
+
+![](https://github.com/saran7d/Email-spam-classifier/blob/main/5.png)
+
+![](https://github.com/saran7d/Email-spam-classifier/blob/main/6.png)
+
+![](https://github.com/saran7d/Email-spam-classifier/blob/main/7.png)
+
+![](https://github.com/saran7d/Email-spam-classifier/blob/main/8.png)
+
+![](https://github.com/saran7d/Email-spam-classifier/blob/main/9.png)
+
+![](https://github.com/saran7d/Email-spam-classifier/blob/main/10.png)
