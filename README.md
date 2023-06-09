@@ -83,6 +83,7 @@ pickle.dump(clf,open('model/clf.pkl','wb'))
 
 # Output:
 
+![]()
 
 
 
