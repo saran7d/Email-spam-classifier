@@ -102,3 +102,7 @@ pickle.dump(clf,open('model/clf.pkl','wb'))
 ![](https://github.com/saran7d/Email-spam-classifier/blob/main/9.png)
 
 ![](https://github.com/saran7d/Email-spam-classifier/blob/main/10.png)
+
+# Result:
+
+Thus the execution of email spam classifier has been executed successfully with data cleaning and data visualization process.
